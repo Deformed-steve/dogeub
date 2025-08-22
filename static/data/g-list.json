@@ -1061,6 +1061,13 @@
       "url": "openAg('https://assets.3kh0.net/fruitninja/index.html')"
     },
     {
+    },
+    {
+      "name": "Fluid Simulation",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXOVaXXYytEw%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=9e8d0da6f41af44b0f33bbdcf49fe3d3bf71576d50073f605c95ce06862095df",
+      "url": "openAg('https://assets.3kh0.net/webgl-fluid-simulation')"
+    },
+    {
       "name": "Glass City",
       "imageUrl": "https://assets.3kh0.net/glass-city/image.png",
       "url": "openAg('https://assets.3kh0.net/glass-city/index.html')"
