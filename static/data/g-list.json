@@ -380,7 +380,8 @@
       "url": "openAg('https://tunnelrush.app/iframe/index.html')"
     }
   ],
-"Horror Games": [ {
+"Horror Games": [ 
+    {
       "name": "Fnaf 1",
       "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F00s9b46lv3j01.jpg&f=1&nofb=1&ipt=3219c029bf1a3b488a7637f247abbe1bbc92a0ea10c7e403830f6489ee2f0dc5",
       "url": "openAg('https://irv77.github.io/hd_fnaf/1/')"
