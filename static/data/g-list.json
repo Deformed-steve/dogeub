@@ -1133,6 +1133,18 @@
       "url": "openAg('https://rawcdn.githack.com/CybriaTech/Opium/main/games/eagler-1.5.2/index.html')"
     },
     {
+      "name": "Eaglercraft (1.5)",
+      "imageUrl": "/assets/img/eaglercraft.webp",
+      "url": "openAg('https://kalibara4.github.io/eagler/1.5.2/')",
+      "height": 135
+    },
+    {
+      "name": "Eaglercraft (1.8)",
+      "imageUrl": "/assets/img/eaglercraft.webp",
+      "url": "openAg('https://kalibara4.github.io/eagler/1.8.8/')",
+      "height": 135
+    },
+    {
       "name": "Pool/Billiards Classic",
       "imageUrl": "https://play-lh.googleusercontent.com/KAyIN39YIUSorZxZ8iDtwO12C4V90ZSdi3tO7RUfxPxqGOhF6BYXv5VpAxlvfUWozI18",
       "url": "openAg('https://13739011225202344337.playables.usercontent.goog/v/assets/index.html#origin=https%3A%2F%2Fwww.youtube.com')"
