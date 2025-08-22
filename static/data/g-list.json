@@ -29,6 +29,12 @@
 "height": 135
 },
 {
+"name": "Adventure Time, Hey Ice King!",
+"imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mobygames.com%2Fimages%2Fcovers%2Fl%2F454173-adventure-time-hey-ice-king-why-d-you-steal-our-garbage-nintendo-ds-front-cover.jpg&f=1&nofb=1&ipt=0857baf4df38318bde80b220bb24437c2d793e228c30ded020377e12e0d39d87",
+"url": "openAg('https://3kh0s.github.io/games/adventuretime/index.html')",
+"height": 135
+},
+{
 "name": "Bounce Back",
 "imageUrl": "https://raw.githack.com/Skoolgq/Polaris-Assets/main/images/bounceback.jpg",
 "url": "openAg('https://skoolcdn.github.io/gfiles/gfiles/html5/bounceback')"
@@ -37,6 +43,12 @@
 "name": "BuildNow.GG",
 "imageUrl": "/assets/img/buildnow.png",
 "url": "openAg('https://games.crazygames.com/en_US/buildnow-gg/index.html')"
+},
+{
+"name": "Baldi's Basics",
+"imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgeometrydash.io%2Fdata%2Fimage%2Fbaldis-basics.jpg&f=1&nofb=1&ipt=2d2c11e1824aa92517f456da0100dfe4055cd78ff5eacfba817e97b58e876ee5",
+"url": "openAg('https://games-site.github.io/projects/baldis-basics/index.html')",
+"height": 135
 },
 {
 "name": "Counter Strike",
@@ -1006,7 +1018,12 @@
 {
 "name": "Fnaf SisterLocation",
 "imageUrl": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpm1.narvii.com%2F6735%2Fe7bc04c6d95222e72d96c7dd415f5795a654862ev2_00.jpg&f=1&nofb=1&ipt=dd37cb143b8c7cf4bbf618e131837b37c141a5882b02046f591ae6cc541f082b",
-"url": "openAg('https://irv77.github.io/hd_fnaf/sl/')"
+"url": "openAg('https://games-site.github.io/projects/fnaf-5/index.html')"
+}, 
+{
+"name": "Fnaf ULTIMATE CUSTOM NIGHT",
+"imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplay-lh.googleusercontent.com%2FpB7dsLLcRgADtFpEPeKc5mSyAn1E1JzrdQ1V7-Y5hizgub3G8e9UJIc5opC9mYXKSBw&f=1&nofb=1&ipt=163bff4596f13a0467de0ca0df929d8fd8babae4c383961d1171b8dd3a9babea",
+"url": "openAg('https://games-site.github.io/projects/fnaf-ucn/index.html')"
 }, 
 {
 "name": "Monkey Mart",
