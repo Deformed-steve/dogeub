@@ -6,6 +6,11 @@
 "url": "openAg('https://play.geforcenow.com')"
 },
 {
+"name": "That's Not my Neighbor",
+"imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-sg.winudf.com%2Fwupload%2Fxy%2Faprojectadmin%2FAVQyHiOR.webp&f=1&nofb=1&ipt=64525db535ae7d0db6a1989c335f270aabc63f87a8123d7151226fd781b0020a",
+"url": "('https://tybsi.com/games/thats-not-my-neighbor/index.html')"
+},
+{
 "name": "Roblox",
 "imageUrl": "/assets/img/roblox.webp",
 "url": "rbx()"
