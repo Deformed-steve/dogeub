@@ -1,8 +1,8 @@
 [
   {
-    "name": "Google",
+    "name": "DuckDuckGo",
     "imageUrl": "/assets/img/google-icon.webp",
-    "url": "openAg('https://google.com')"
+    "url": "openAg('https://DuckDuckGo.com')"
   },
   {
     "name": "JuliusAI",
