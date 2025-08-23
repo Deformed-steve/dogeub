@@ -35,6 +35,12 @@
 "height": 135
 },
 {
+"name": "Free movies",
+"imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcinema-realistic-poster-with-illuminated-bucket-popcorn-drink-3d-glasses-reel-tickets-blue-background-with-tapes-vector-illustration_1284-77070.jpg&f=1&nofb=1&ipt=1538318a1c3d01468bcf10cf7abe1e3d5b76f24bb32ff12e84928dd60ffaaa70",
+"url": "openAg('https://idek-fr.vercel.app/')",
+"height": 135
+},
+{
 "name": "Bounce Back",
 "imageUrl": "https://raw.githack.com/Skoolgq/Polaris-Assets/main/images/bounceback.jpg",
 "url": "openAg('https://skoolcdn.github.io/gfiles/gfiles/html5/bounceback')"
